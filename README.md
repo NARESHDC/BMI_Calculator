@@ -1,8 +1,5 @@
 # Ex06 BMI Calculator
-## Date:
-### Name : Archana K
-### Reg no: 212222240011
-
+## Date:17.05.25
 ## AIM
 To create a BMI calculator using React Router 
 
